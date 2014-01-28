@@ -3,7 +3,7 @@
 
 	<groupId>kendzi.test</groupId>
 	<artifactId>maven-release-test</artifactId>
-	<version>1.0.2-SNAPSHOT</version>
+	<version>1.0.2</version>
 	<packaging>pom</packaging>
  
 		
@@ -11,7 +11,7 @@
 		<connection>scm:git:git@github.com/kendzi/maven-release-test.git</connection>
 		<developerConnection>scm:git:git@github.com:kendzi/maven-release-test.git</developerConnection>
 		<url>http://github.com/kendzi/maven-release-test</url>
-  	  <tag>HEAD</tag>
+  	  <tag>maven-release-test-1.0.2</tag>
   </scm>
 	<distributionManagement>
 		<repository>
