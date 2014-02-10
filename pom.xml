@@ -3,7 +3,7 @@
 
 	<groupId>kendzi.test</groupId>
 	<artifactId>maven-release-test</artifactId>
-	<version>1.0.10</version>
+	<version>1.0.10-SNAPSHOT</version>
 	<packaging>pom</packaging>
  
 		
@@ -34,6 +34,10 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	
+	<modules>
+		<module>module1</module>
+	</modules>
 	
 	<repositories>
 		<repository>
